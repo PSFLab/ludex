@@ -1,3 +1,3 @@
 # ludex
 
-# Extract 
+# Extract verdicts 
